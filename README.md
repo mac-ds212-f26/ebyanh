@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!!
 
 # Ebyan Hussein
 - Computer science student at Concordia St.Paul

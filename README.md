@@ -1,19 +1,19 @@
 ## Hi there 👋
 
-#Ebyan Hussein
-##Computer science student at Concordia St.Paul
-###Currently not working on any projects
+# Ebyan Hussein
+- Computer science student at Concordia St.Paul
+- Currently not working on any projects but wants to
 
-##Technical Skills
+## Technical Skills
 - Java
 - Python
 - R Studio(learning) 
 - SQL(learning)
 - Claude
 
-##Current Goals
--Learn about AWS and Azure
--Start working on projects
+## Current Goals
+- Learn about AWS and Azure
+- Start working on projects
 
-##Where to find me!
--LinkedIn: www.linkedin.com/in/ebyan-hussein-06b595247 
+## Where to find me!
+- [LinkedIn:](www.linkedin.com/in/ebyan-hussein-06b595247)
